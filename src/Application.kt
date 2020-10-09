@@ -23,8 +23,8 @@ fun Application.module(testing: Boolean = false) {
     install(OpenAPIGen) {
         info {
             version = "1.0.0"
-            title = "Demo API"
-            description = "Ktor using OpenAPI"
+            title = "My Awesome Ktor API"
+            description = "My Awesome Ktor API with OpenAPI"
             contact {
                 name = "HankLi"
                 email = "HankLi0130@gmail.com"
