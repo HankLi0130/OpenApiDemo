@@ -2,7 +2,7 @@
 
 This is a demonstration of RESTful API using Ktor with [Ktor-OpenAPI-Generator](https://github.com/papsign/Ktor-OpenAPI-Generator)
 
-## Screen Shots
+## Snapshot
 
 ![screen shot 1](./images/screenshot1.png)
 
